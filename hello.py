@@ -1,0 +1,10 @@
+nums = [23 , 43 , 22 , 90]
+print(nums)
+nums.append(45)
+print(nums)
+nums.insert(2, 35)
+print(nums)
+nums.remove(22)
+print(nums)
+print(nums.pop(1))
+print(nums)
